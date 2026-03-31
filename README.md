@@ -6,7 +6,7 @@
 👩‍💻 Learning: JavaScript, React, Node, Blender, Three (essentially, frontend) <br><br>
 🧚🏻‍♂️Interested in: full-stack, creative web dev, human-computer interaction <br><br>
 🐿️ Things I like to do outside of programming: crochet, take pictures of squirrels, video games (lately Animal Crossing & Valorant), and gym <br><br>
-💐 Goals: learn by <b>doing</b>, lead through <b>example</b>, and stay <b>curious</b>  
+💐 Motto: learn by <b>doing</b>, lead through <b>example</b>, and stay <b>curious</b>  
 
 
 
